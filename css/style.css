@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins',
+    sans-serif;
+}
+.section{
+    display: flex;
+    margin: 20px 90px 50px 100px;
+}
+p{
+    color: #575757;
+}
+.text-color{
+    color: grey;
+    font-size: 60px;
+}
+.span{
+    color: orange;
+}
+.header{
+    display: flex;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    padding: 20px 40px;
+    background-image: linear-gradient(orange, red);
+    border-radius: 30px;
+}
+#head-text{
+    margin-top: 150px;
+}
+.about{
+    display: flex;
+    margin: 20px 150px 50px 100px;
+}
+.h1{
+    color: grey;
+    font-size: 40px;
+}
+.about-banner{
+    background-image: url(about.jpg);
+    background-repeat: no-repeat;
+}
+.about-text{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.food-menu{
+    display: flex;
+}
+
