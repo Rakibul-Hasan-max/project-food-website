@@ -97,3 +97,43 @@ h2{
 .nav li a{
     color: rgb(26, 24, 24);
 }
+
+.border{
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    color: white;
+    text-align: left;
+}
+.border h1{
+    padding-left: 200px;
+    padding-top: 200px;
+}
+.food-pizza{
+    color: white;
+    margin-right: 600px;
+    margin-left: 200px;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
