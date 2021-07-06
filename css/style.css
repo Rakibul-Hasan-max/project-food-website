@@ -50,4 +50,24 @@ p{
 .food-menu{
     display: flex;
 }
-
+.design-header{
+    text-align: center;
+}
+.design-header h1{
+    font-size: 35px;
+    color: gray;
+}
+.design-header p{
+    padding: 0px 400px;
+}
+.footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 20px;
+}
+h2{
+    color: gray;
+}
+.food-color{
+    color: olive;
+}
